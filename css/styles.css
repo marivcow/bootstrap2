@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: beige;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4A4063;
+}
+
+nav {
+    background-color: #BFACC8;
+}
+
+section {
+    background-color: #C4B9D0;
+}
+
+article {
+    background-color: #C8C6D7;
+}
+
+aside {
+    background-color: #783F8E;
+}
+
+footer {
+    background-color: #642980;
+}
+
+.altura1 {
+    height: 10vh;
+}
+
+.altura2 {
+    height: 10vh;
+}
+
+.altura3 {
+    height: 70vh;
+}
+
+.altura4 {
+    height: 10vh;
+}
